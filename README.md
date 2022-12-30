@@ -17,7 +17,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.js LTS 버전(v15.x 이상)](https://nodejs.org/ko/)
 
-💡 참고 사항 : 독학으로 진행했으므로, 코드가 복잡할 수 있음 😄
+💡 참고 사항 : 독학으로 진행했으므로, 코드가 복잡할 수 있음 😄!
  
 ## VSCode 플러그인 목록
 
